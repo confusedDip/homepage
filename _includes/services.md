@@ -6,7 +6,7 @@
 </ul>
 
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.sacmat.org/2025/"><autocolor>ACM Symposium on Access Control Models and Technologies (SACMAT), 2024-2025</autocolor></a></li>
@@ -14,13 +14,13 @@
   <li><a href="https://asiaccs2025.hust.edu.vn/"><autocolor>ACM ASIA Conference on Computer and Communications Security (ASIACCS), 2025</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Workshop Reviewers</h4>
+<h4 style="margin:0 10px 0;">Workshop Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://cset24.isi.edu/"><autocolor>Workshop on Cyber Security Experimentation and Test (CSET), 2024</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://link.springer.com/journal/11042"><autocolor>Multimedia Tools and Applications (MTA)</autocolor></a></li>
