@@ -1,22 +1,32 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "“It’s almost like Frankenstein”: Investigating the Complexities of Scientific Collaboration  and Privilege Management within Research Computing Infrastructures" 
+    authors: <u>Souradip Nath</u>, Ananta Soneji, Jaejong Baek, Tiffany Bao, Adam Doupe, Carlos Rubio-Medrano, and Gail-Joon Ahn.
+    conference_short: IEEE S&P
+    conference: 46th IEEE Symposium on Security and Privacy, 2025.
+    pdf: https://sefcom.asu.edu/publications/frankenstein-sp2025.pdf
+    code: https://github.com/sefcom/Frankenstein
+    bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
+    slides: ./assets/files/slides/frankenstein-sp2025.pdf
+    poster: https://drive.google.com/file/d/12qXFvsbrZs27AuutC0JBVcQ6gygJn1z3/view?usp=sharing
+    image: ./assets/img/frankenstein-teaser.png
+    notes: Acceptance Rate ~14.8%
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Digital Evidence Chain of Custody: Navigating New Realities of Digital Forensics"
+    authors: <u>Souradip Nath</u>, Keb Summers, Jaejong Baek, and Gail-Joon Ahn.
+    conference_short: IEEE TPS-ISA
+    conference: IEEE 6th International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications, 2024.
+    pdf: https://sefcom.asu.edu/publications/CoC-SoK-tps2024.pdf
+    bibtex: https://sefcom.asu.edu/publications/CoC-SoK-tps2024.bib
+    slides: ./assets/files/slides/CoC-tps2024.pdf
+    notes: Invited Paper
+    image: ./assets/img/CoC-teaser.png
+
+  - title: "Automated Image Splicing Detection using Deep CNN-learned Features and ANN-based Classifier"
+    authors: <u>Souradip Nath</u>, and Ruchira Naskar.
+    conference_short: SiVP
+    conference: Signal, Image, and Video Processing (SiVP), 2021.
+    pdf: https://drive.google.com/file/d/1flkuNAsaNPdJjK83W9kg7Cti8sZY1VCl/view?usp=sharing
+    bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:y3NX7SPjjNMJ:scholar.google.com/&output=citation&scisdr=CgJ00JYAEIHp9-q2wY4:AAZF9b8AAAAAaCqw2Y7BV92podarHvvQIgOll8M&scisig=AAZF9b8AAAAAaCqw2RP-ZlGIQDykoe8pSOtN_g4&scisf=4&ct=citation&cd=-1&hl=en
+    notes: Journal Paper
+    image: ./assets/img/image-splicing-teaser.png
