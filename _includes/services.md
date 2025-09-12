@@ -2,7 +2,7 @@
 
 <h4 style="margin:0 10px 0;">Organizing Committee</h4>
 <ul style="margin:0 0 5px;">
-  <li><a href="https://www.sacmat.org/2025/"><autocolor>ACM Symposium on Access Control Models and Technologies (SACMAT), 2025</autocolor></a></li>
+  <li><a href="https://www.sacmat.org/2025/"><autocolor>ACM Symposium on Access Control Models and Technologies (SACMAT), 2025-2026</autocolor></a></li>
 </ul>
 
 

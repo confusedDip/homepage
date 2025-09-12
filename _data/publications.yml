@@ -26,7 +26,7 @@ main:
     authors: <u>Souradip Nath</u>, and Ruchira Naskar.
     conference_short: SiVP
     conference: Signal, Image, and Video Processing (SiVP), 2021.
-    pdf: https://drive.google.com/file/d/1flkuNAsaNPdJjK83W9kg7Cti8sZY1VCl/view?usp=sharing
+    pdf: ./assets/files/papers/splicing-sivp2021.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:y3NX7SPjjNMJ:scholar.google.com/&output=citation&scisdr=CgJ00JYAEIHp9-q2wY4:AAZF9b8AAAAAaCqw2Y7BV92podarHvvQIgOll8M&scisig=AAZF9b8AAAAAaCqw2RP-ZlGIQDykoe8pSOtN_g4&scisf=4&ct=citation&cd=-1&hl=en
     notes: Journal Paper
     image: ./assets/img/image-splicing-teaser.png
