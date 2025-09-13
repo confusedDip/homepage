@@ -11,7 +11,7 @@ If you want to discuss anything about Access Control and Usable cybersecurity, f
 
 ## Research Interests
 
-Usable Cybersecurity, Access Control for Critical Cyberinfrastructures, Online Safety and Privacy, Digital Forensics, Blockchain
+Usable Cybersecurity, Access Control, LLMs and Agentic AI, Online Safety and Privacy, Digital Forensics, Blockchain
 
 ## News
 

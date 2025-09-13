@@ -4,13 +4,8 @@ main:
     authors: <u>Souradip Nath</u>, Ananta Soneji, Jaejong Baek, Tiffany Bao, Adam Doupe, Carlos Rubio-Medrano, and Gail-Joon Ahn.
     conference_short: IEEE S&P
     conference: 46th IEEE Symposium on Security and Privacy, 2025.
-    pdf: https://sefcom.asu.edu/publications/frankenstein-sp2025.pdf
-    code: https://github.com/sefcom/Frankenstein
-    bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
-    slides: ./assets/files/slides/frankenstein-sp2025.pdf
-    poster: https://drive.google.com/file/d/12qXFvsbrZs27AuutC0JBVcQ6gygJn1z3/view?usp=sharing
+    pdf: https://drive.google.com/file/d/12qXFvsbrZs27AuutC0JBVcQ6gygJn1z3/view?usp=sharing
     image: ./assets/img/frankenstein-teaser.png
-    notes: Acceptance Rate ~14.8%
 
   - title: "Digital Evidence Chain of Custody: Navigating New Realities of Digital Forensics"
     authors: <u>Souradip Nath</u>, Keb Summers, Jaejong Baek, and Gail-Joon Ahn.
@@ -19,6 +14,7 @@ main:
     pdf: https://sefcom.asu.edu/publications/CoC-SoK-tps2024.pdf
     bibtex: https://sefcom.asu.edu/publications/CoC-SoK-tps2024.bib
     slides: ./assets/files/slides/CoC-tps2024.pdf
+    notes: Invited Paper
     image: ./assets/img/CoC-teaser.png
 
   - title: "Automated Image Splicing Detection using Deep CNN-learned Features and ANN-based Classifier"
