@@ -1,5 +1,17 @@
 main:
 
+  - title: "Towards Collaboration-Aware Resource Sharing in Research Computing Infrastructures"
+    authors: <u>Souradip Nath</u>, Ananta Soneji, Jaejong Baek, Carlos Rubio-Medrano, and Gail-Joon Ahn.
+    conference_short: IEEE CIC
+    conference: 11th IEEE International Conference on Collaboration and Internet Computing, 2025.
+    # pdf: https://sefcom.asu.edu/publications/frankenstein-sp2025.pdf
+    code: https://github.com/confusedDip/CLEARS
+    # bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
+    # slides: ./assets/files/slides/frankenstein-sp2025.pdf
+    # poster: https://drive.google.com/file/d/12qXFvsbrZs27AuutC0JBVcQ6gygJn1z3/view?usp=sharing
+    image: ./assets/img/clears-teaser.png
+    # notes: Acceptance Rate ~14.8%
+
   - title: "“It’s almost like Frankenstein”: Investigating the Complexities of Scientific Collaboration  and Privilege Management within Research Computing Infrastructures" 
     authors: <u>Souradip Nath</u>, Ananta Soneji, Jaejong Baek, Tiffany Bao, Adam Doupe, Carlos Rubio-Medrano, and Gail-Joon Ahn.
     conference_short: IEEE S&P
