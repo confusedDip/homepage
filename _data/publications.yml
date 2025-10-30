@@ -4,7 +4,7 @@ main:
     authors: <u>Souradip Nath</u>, Ananta Soneji, Jaejong Baek, Carlos Rubio-Medrano, and Gail-Joon Ahn.
     conference_short: IEEE CIC
     conference: 11th IEEE International Conference on Collaboration and Internet Computing, 2025.
-    # pdf: https://sefcom.asu.edu/publications/frankenstein-sp2025.pdf
+    pdf: ./assets/files/papers/clears-cic2025.pdf
     code: https://github.com/confusedDip/CLEARS
     # bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
     # slides: ./assets/files/slides/frankenstein-sp2025.pdf
