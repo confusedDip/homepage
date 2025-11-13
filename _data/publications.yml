@@ -7,8 +7,7 @@ main:
     pdf: ./assets/files/papers/clears-cic2025.pdf
     code: https://github.com/confusedDip/CLEARS
     # bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
-    # slides: ./assets/files/slides/frankenstein-sp2025.pdf
-    # poster: https://drive.google.com/file/d/12qXFvsbrZs27AuutC0JBVcQ6gygJn1z3/view?usp=sharing
+    slides: ./assets/files/slides/CLEARS-CIC2025-Slides.pdf
     image: ./assets/img/clears-teaser.png
     # notes: Acceptance Rate ~14.8%
 
