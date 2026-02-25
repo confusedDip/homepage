@@ -15,6 +15,7 @@ Usable Cybersecurity, Access Control, LLMs and Agentic AI, Online Safety and Pri
 
 ## News
 
+- **[Feb. 2026]** I have joined the Technical Program Committee of the 1st Workshop on Metascience and Critical Reflections in Security & Privacy (MetaCRiSP 2026).
 - **[Feb. 2026]** My co-authored paper “Before the Vicious Cycle Starts: Preventing Burnout Across SOC Roles Through Flow-Aligned Design” is accepted to WOSOC 2026 (Co-located with NDSS 2026).
 - **[Jan. 2026]** My co-authored paper “Deception by Design: A Configurable Platform for Flexible Cyber Deception Strategy Testing and Evaluation” is accepted to ACNS 2026.
 - **[Sep. 2025]** I am continuing as the Web Chair for ACM SACMAT 2026.
