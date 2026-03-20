@@ -1,15 +1,15 @@
 main:
 
-  - title: "BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software"
-    authors: Zehua Zhang, Ati Priya Bajaj, Divij Handa, Siyu Liu, Arvind S Raj, Hongkai Chen, Hulin Wang, Yibo Liu, Zion Leonahenahe Basque, <u>Souradip Nath</u>, Will Rosenberg, Vishal Juneja, Nikhil Chapre, Yan Shoshitaishvili, Adam Doupe, Chitta Baral, and Ruoyu Wang.
-    conference_short: DL4C
-    conference: 4th Deep Learning for Code Workshop at NeurIPS 2025
-    pdf: https://arxiv.org/abs/2509.25248
-    # code: https://github.com/confusedDip/CLEARS
-    # bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
-    # slides: ./assets/files/slides/CLEARS-CIC2025-Slides.pdf
-    # image: ./assets/img/clears-teaser.png
-    # notes: Acceptance Rate ~14.8%
+  # - title: "BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software"
+  #   authors: Zehua Zhang, Ati Priya Bajaj, Divij Handa, Siyu Liu, Arvind S Raj, Hongkai Chen, Hulin Wang, Yibo Liu, Zion Leonahenahe Basque, <u>Souradip Nath</u>, Will Rosenberg, Vishal Juneja, Nikhil Chapre, Yan Shoshitaishvili, Adam Doupe, Chitta Baral, and Ruoyu Wang.
+  #   conference_short: DL4C
+  #   conference: 4th Deep Learning for Code Workshop at NeurIPS 2025
+  #   pdf: https://arxiv.org/abs/2509.25248
+  #   # code: https://github.com/confusedDip/CLEARS
+  #   # bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
+  #   # slides: ./assets/files/slides/CLEARS-CIC2025-Slides.pdf
+  #   # image: ./assets/img/clears-teaser.png
+  #   # notes: Acceptance Rate ~14.8%
 
   - title: "BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software"
     authors: Zehua Zhang, Ati Priya Bajaj, Divij Handa, Siyu Liu, Arvind S Raj, Hongkai Chen, Hulin Wang, Yibo Liu, Zion Leonahenahe Basque, <u>Souradip Nath</u>, Will Rosenberg, Vishal Juneja, Nikhil Chapre, Yan Shoshitaishvili, Adam Doupe, Chitta Baral, and Ruoyu Wang.
