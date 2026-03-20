@@ -1,12 +1,34 @@
 main:
 
+  - title: "BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software"
+    authors: Zehua Zhang, Ati Priya Bajaj, Divij Handa, Siyu Liu, Arvind S Raj, Hongkai Chen, Hulin Wang, Yibo Liu, Zion Leonahenahe Basque, <u>Souradip Nath</u>, Will Rosenberg, Vishal Juneja, Nikhil Chapre, Yan Shoshitaishvili, Adam Doupe, Chitta Baral, and Ruoyu Wang.
+    conference_short: DL4C
+    conference: 4th Deep Learning for Code Workshop at NeurIPS 2025
+    pdf: https://arxiv.org/abs/2509.25248
+    # code: https://github.com/confusedDip/CLEARS
+    # bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
+    # slides: ./assets/files/slides/CLEARS-CIC2025-Slides.pdf
+    # image: ./assets/img/clears-teaser.png
+    # notes: Acceptance Rate ~14.8%
+
+  - title: "BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software"
+    authors: Zehua Zhang, Ati Priya Bajaj, Divij Handa, Siyu Liu, Arvind S Raj, Hongkai Chen, Hulin Wang, Yibo Liu, Zion Leonahenahe Basque, <u>Souradip Nath</u>, Will Rosenberg, Vishal Juneja, Nikhil Chapre, Yan Shoshitaishvili, Adam Doupe, Chitta Baral, and Ruoyu Wang.
+    conference_short: DL4C
+    conference: 4th Deep Learning for Code Workshop at NeurIPS 2025
+    pdf: https://arxiv.org/abs/2509.25248
+    # code: https://github.com/confusedDip/CLEARS
+    # bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
+    # slides: ./assets/files/slides/CLEARS-CIC2025-Slides.pdf
+    # image: ./assets/img/clears-teaser.png
+    # notes: Acceptance Rate ~14.8%
+
   - title: "Towards Collaboration-Aware Resource Sharing in Research Computing Infrastructures"
     authors: <u>Souradip Nath</u>, Ananta Soneji, Jaejong Baek, Carlos Rubio-Medrano, and Gail-Joon Ahn.
     conference_short: IEEE CIC
     conference: 11th IEEE International Conference on Collaboration and Internet Computing, 2025.
-    pdf: ./assets/files/papers/clears-cic2025.pdf
+    pdf: https://sefcom.asu.edu/publications/clears-cic2025.pdf
     code: https://github.com/confusedDip/CLEARS
-    # bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
+    bibtex: https://sefcom.asu.edu/publications/clears-cic2025.bib
     slides: ./assets/files/slides/CLEARS-CIC2025-Slides.pdf
     # image: ./assets/img/clears-teaser.png
     # notes: Acceptance Rate ~14.8%
