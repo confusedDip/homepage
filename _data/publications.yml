@@ -8,7 +8,7 @@ main:
     code: https://github.com/confusedDip/CLEARS
     # bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
     slides: ./assets/files/slides/CLEARS-CIC2025-Slides.pdf
-    image: ./assets/img/clears-teaser.png
+    # image: ./assets/img/clears-teaser.png
     # notes: Acceptance Rate ~14.8%
 
   - title: "“It’s almost like Frankenstein”: Investigating the Complexities of Scientific Collaboration  and Privilege Management within Research Computing Infrastructures" 
@@ -20,7 +20,7 @@ main:
     bibtex: https://sefcom.asu.edu/publications/frankenstein-sp2025.bib
     slides: ./assets/files/slides/frankenstein-sp2025.pdf
     poster: https://drive.google.com/file/d/12qXFvsbrZs27AuutC0JBVcQ6gygJn1z3/view?usp=sharing
-    image: ./assets/img/frankenstein-teaser.png
+    # image: ./assets/img/frankenstein-teaser.png
     notes: Acceptance Rate ~14.8%
 
   - title: "Digital Evidence Chain of Custody: Navigating New Realities of Digital Forensics"
@@ -30,7 +30,7 @@ main:
     pdf: https://sefcom.asu.edu/publications/CoC-SoK-tps2024.pdf
     bibtex: https://sefcom.asu.edu/publications/CoC-SoK-tps2024.bib
     slides: ./assets/files/slides/CoC-tps2024.pdf
-    image: ./assets/img/CoC-teaser.png
+    # image: ./assets/img/CoC-teaser.png
 
   - title: "Automated Image Splicing Detection using Deep CNN-learned Features and ANN-based Classifier"
     authors: <u>Souradip Nath</u>, and Ruchira Naskar.
@@ -40,4 +40,4 @@ main:
     pdf: ./assets/files/papers/splicing-sivp2021.pdf
     bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:y3NX7SPjjNMJ:scholar.google.com/&output=citation&scisdr=CgJ00JYAEIHp9-q2wY4:AAZF9b8AAAAAaCqw2Y7BV92podarHvvQIgOll8M&scisig=AAZF9b8AAAAAaCqw2RP-ZlGIQDykoe8pSOtN_g4&scisf=4&ct=citation&cd=-1&hl=en
     notes: Journal Paper
-    image: ./assets/img/image-splicing-teaser.png
+    # image: ./assets/img/image-splicing-teaser.png
