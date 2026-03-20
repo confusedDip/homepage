@@ -14,7 +14,15 @@
   line-height:2.5rem;
   margin-right:1rem}
 
-@media (prefers-color-scheme: dark) { .social-icons a {color: #3eb7f0 !important; }}
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme]) .social-icons a {
+    color: #3eb7f0 !important;
+  }
+}
+
+html[data-theme="dark"] .social-icons a {
+  color: #3eb7f0 !important;
+}
 
 .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:white;
     color:black;
@@ -35,9 +43,16 @@
       }
      */
 
-@media (prefers-color-scheme: dark) {.social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#20212b;
-    color:black;
-    transform: scale(1.2)} 
+@media (prefers-color-scheme: dark) {
+  html:not([data-theme]) .social-icons a:last-child {
+    margin-right: 0;
+  }
+
+  html:not([data-theme]) .social-icons a:hover {
+    background-color: #20212b;
+    color: black;
+    transform: scale(1.2);
+  }
     /*
     .social-icons a:after {
         content: '';
@@ -53,6 +68,16 @@
         background: #a0b0ff;
       }
     */
+}
+
+html[data-theme="dark"] .social-icons a:last-child {
+  margin-right: 0;
+}
+
+html[data-theme="dark"] .social-icons a:hover {
+  background-color: #20212b;
+  color: black;
+  transform: scale(1.2);
 }
 
 .icon-button{
@@ -159,27 +184,94 @@ papertitle {
   }
 
 @media (prefers-color-scheme: dark) {
-    body {
+    html:not([data-theme]) body {
         background-color: #20212b;
         color: #dadbdf;
     }
 
-    autocolor{
+    html:not([data-theme]) autocolor{
       color:#dadbdf;
     }
 
-    lightonly {
+    html:not([data-theme]) lightonly {
       visibility: hidden;
     }
 
-    darkonly {
+    html:not([data-theme]) darkonly {
       visibility: visible;
     }
 
-    papertitle {
+    html:not([data-theme]) papertitle {
     color:#eeeff0;
     }
 
+}
+
+html[data-theme="dark"] body {
+    background-color: #20212b;
+    color: #dadbdf;
+}
+
+html[data-theme="dark"] autocolor{
+  color:#dadbdf;
+}
+
+html[data-theme="dark"] lightonly {
+  visibility: hidden;
+}
+
+html[data-theme="dark"] darkonly {
+  visibility: visible;
+}
+
+html[data-theme="dark"] papertitle {
+  color:#eeeff0;
+}
+
+html[data-theme="dark"] {
+  color-scheme: dark;
+}
+
+html[data-theme="light"] {
+  color-scheme: light;
+}
+
+.theme-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45rem;
+  padding: 0.6rem 0.9rem;
+  border: 1px solid #d0d7de;
+  border-radius: 999px;
+  background-color: #ffffff;
+  color: #043361;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.92rem;
+  transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.theme-toggle:hover {
+  background-color: #f5f8fb;
+  border-color: #043361;
+  transform: translateY(-1px);
+}
+
+.theme-toggle__icon {
+  line-height: 1;
+  font-size: 1rem;
+}
+
+html[data-theme="dark"] .theme-toggle {
+  background-color: #2a2d3a;
+  border-color: #4a5366;
+  color: #eeeff0;
+}
+
+html[data-theme="dark"] .theme-toggle:hover {
+  background-color: #313646;
+  border-color: #3eb7f0;
 }
 
 
@@ -248,13 +340,22 @@ h2 {
 }
 
 @media (prefers-color-scheme: dark) {
-  h1, h3, h4, h5, h6 {
+  html:not([data-theme]) h1, html:not([data-theme]) h3, html:not([data-theme]) h4, html:not([data-theme]) h5, html:not([data-theme]) h6 {
     color:rgb(62, 183, 240);
   }
 
-  h2 {
+  html:not([data-theme]) h2 {
     color:rgb(62, 183, 240);
   }
+}
+
+html[data-theme="dark"] h1,
+html[data-theme="dark"] h2,
+html[data-theme="dark"] h3,
+html[data-theme="dark"] h4,
+html[data-theme="dark"] h5,
+html[data-theme="dark"] h6 {
+  color:rgb(62, 183, 240);
 }
 
 p, ul, ol, table, pre, dl {
@@ -279,9 +380,13 @@ a:hover {
 }
 
 @media (prefers-color-scheme: dark) {
-  a {
+  html:not([data-theme]) a {
     color:rgb(62, 183, 240);
   }
+}
+
+html[data-theme="dark"] a {
+  color:rgb(62, 183, 240);
 }
 
 a small {
@@ -342,13 +447,18 @@ th {
 }
 
 @media (prefers-color-scheme: dark) {
-  th {
+  html:not([data-theme]) th {
     color:rgb(62, 183, 240);
   }
 
-  dt {
+  html:not([data-theme]) dt {
     color:rgb(62, 183, 240);
   }
+}
+
+html[data-theme="dark"] th,
+html[data-theme="dark"] dt {
+  color:rgb(62, 183, 240);
 }
 
 img {
@@ -415,9 +525,13 @@ strong {
 }
 
 @media (prefers-color-scheme: dark) {
-  strong {
+  html:not([data-theme]) strong {
     color:#eeeff0;
   }
+}
+
+html[data-theme="dark"] strong {
+  color:#eeeff0;
 }
 
 header ul li + li + li {

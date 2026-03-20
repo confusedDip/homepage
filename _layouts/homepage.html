@@ -27,6 +27,15 @@
     <link rel="stylesheet" href="./assets/css/font.css">
     {% endif %}
     {% if site.auto_dark_mode %}
+    <script>
+      (function() {
+        var storedTheme = null;
+        try {
+          storedTheme = localStorage.getItem('theme');
+        } catch (error) {}
+        document.documentElement.setAttribute('data-theme', storedTheme === 'dark' ? 'dark' : 'light');
+      })();
+    </script>
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/publications.css">
     {% else %}
@@ -91,6 +100,12 @@
         </a>
         {% endif %}
         </div>
+        {% if site.auto_dark_mode %}
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Switch to dark theme">
+          <span class="theme-toggle__icon" aria-hidden="true">☾</span>
+          <span class="theme-toggle__label">Dark mode</span>
+        </button>
+        {% endif %}
         <br>
 
       </header>
@@ -110,6 +125,9 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    {% if site.auto_dark_mode %}
+    <script src="{{ "/assets/js/theme-toggle.js" | relative_url }}"></script>
+    {% endif %}
     {% if site.google_analytics %}
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
