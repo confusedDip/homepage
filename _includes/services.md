@@ -5,6 +5,15 @@
   <li><a href="https://www.sacmat.org/2025/"><autocolor>ACM Symposium on Access Control Models and Technologies (SACMAT), 2025-2026</autocolor></a></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Program Committee</h4>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.sacmat.org/2025/"><autocolor>1st Workshop on Metascience and Critical Reflections in Security & Privacy (MetaCRiSP), 2026</autocolor></a></li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Artifact Evaluation Committee</h4>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://www.sacmat.org/2025/"><autocolor>ACM Symposium on Access Control Models and Technologies (SACMAT), 2026</autocolor></a></li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
