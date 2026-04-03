@@ -1,6 +1,7 @@
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
 
 <div class="publications">
+The full list of publications can be found <a href="https://scholar.google.com/citations?user=84isPRMAAAAJ&hl=en" target="_blank">here</a>.
 <ol class="bibliography">
 
 {% for link in site.data.publications.main %}
